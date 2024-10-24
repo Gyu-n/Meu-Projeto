@@ -1,1 +1,11 @@
+# Arquivo .index
+
+Este arquivo serve como um índice ou marcador para o projeto.
+
+## Comando Git para visualizar o histórico de commits:
+
+Para listar o histórico de commits, use o comando:
+
+```bash
+git log --oneline
 
